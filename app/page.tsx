@@ -1158,7 +1158,7 @@ export default function Home() {
           </a>
 
           <p className="text-[10px] text-[#faf9f6]/55">
-            © {new Date().getFullYear()} Brenda Paiva
+            © 2026 Brenda Paiva
           </p>
 
         
